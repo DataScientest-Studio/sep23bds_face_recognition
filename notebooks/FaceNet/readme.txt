@@ -1,0 +1,1 @@
+Directory dedicated to the FaceNet model. For the notebook see directory 'Interpretability/' the notebook 'MTCNN_GradCAM.ipynb'. We combined the 2 respective notebooks there for the sake of completeness. (CK)
